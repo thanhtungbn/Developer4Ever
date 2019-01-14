@@ -15,5 +15,11 @@ namespace EmployeeService
         [OperationContract]
         [WebInvoke(Method = "GET", UriTemplate = "/Tung/{EmpId}", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped)]
         string GetEmpSalary(string EmpId);
+
+        [OperationContract]
+        [WebInvoke(Method = "POST", UriTemplate ="create", ResponseFormat = WebMessageFormat.Json, RequestFormat =WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped)]
+        bool create(post_SendAlarm request);
     }
+
+    
 }

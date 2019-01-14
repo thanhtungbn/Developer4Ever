@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeSe
 C:\Users\Admin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
 C:\Users\Admin\source\repos\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\bin\EmployeeService.dll.config
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\bin\EmployeeService.dll
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\bin\EmployeeService.pdb
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Admin\Desktop\Developer4Ever\WCF_WebService\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
